@@ -32,7 +32,8 @@ zm_mansion
 
 zm_red
 
-    full: Specialist challenge first, nuke and then full power drops. hand locations are fountain, treasury, charon, pap near hand shrine. coins are perfect. electrics are guaranteed 3 and to spawn instantly. abhs are perfect
+    full: Specialist challenge first, nuke and then full power drops. hand locations are fountain, treasury, 
+    charon, pap near hand shrine. coins are perfect. electrics are guaranteed 3 and to spawn instantly. abhs are perfect
     boss: Start the game in the boss fight.
     cogs: start the game at the statues and wait until you see the prompt. start statues and do cogs normally. gaia hand isn't placed so just imagine you grab it lol
 
