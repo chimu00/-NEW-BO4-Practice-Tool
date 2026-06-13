@@ -3,9 +3,9 @@ This is a practice mod for speedrunning bo4 zombies
  The majority of the credit goes to scrappy for creating the framework for this mod as well as the blood and DOTN patches. you can find the original mod here https://github.com/Joshr520/BO4-Practice
  bindy helped get the bossfight patch working and made the birds patch for blood
 # -Changes
-added support for Ancient Evil
-added support for Alpha Omega
-updated scrappy's Blood challenge patch to have half sword level for classics
+added support for Ancient Evil,
+added support for Alpha Omega,
+updated scrappy's Blood challenge patch to have half sword level for classics,
 added "full" patch for DOTN that includes silver part spawns hard patched as well as double and bonus as the first drops
 
 
