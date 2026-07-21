@@ -7,6 +7,7 @@ added support for Ancient Evil,
 added support for Alpha Omega,
 updated scrappy's Blood challenge patch to have half sword level for classics,
 added "full" patch for DOTN that includes silver part spawns hard patched as well as double and bonus as the first drops
+added planets and boss patch for Voyage
 
 
 
@@ -14,6 +15,8 @@ added "full" patch for DOTN that includes silver part spawns hard patched as wel
 zm_zodt8
 
     free_kraken: Start the game on the poop deck, where the free kraken egg is. You will get notified every time you enter or leave the path for the free kraken.
+    Planets: start in the engine room with everything you need to start picking up the elements and start planets
+    Boss: starts the match in the bossfight
 
 zm_escape
 
